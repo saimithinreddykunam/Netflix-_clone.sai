@@ -1,0 +1,2 @@
+INSERT INTO videos (title, description, filename) VALUES ('Sample Video 1', 'This is a sample video.', 'sample1.mp4');
+INSERT INTO videos (title, description, filename) VALUES ('Sample Video 2', 'This is another sample video.', 'sample2.mp4');
